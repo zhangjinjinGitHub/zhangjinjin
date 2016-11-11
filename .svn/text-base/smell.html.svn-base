@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<style>
+			*{
+				margin: 0;
+				padding: 0;
+			}
+			
+			.box{
+				width: 200px;
+				height: 200px;
+				border: 100px solid green;
+				border-left-color: red;
+				border-right-color: black;
+				border-top-color: yellow;
+				margin: 100px 0px 0px 500px;
+				border-radius: 50%;
+				animation: circle 1s infinite linear;	
+				-webkit-animation: circle 1s infinite linear;
+			}
+			
+			@-webkit-keyframes circle{
+				0%{ transform:rotate(0deg); }
+				100%{ transform:rotate(360deg); }
+			}
+			
+		</style>
+	</head>
+	<body>
+		
+		<div class="box" id="box"></div>
+		
+		<script type="text/javascript">
+		
+			var box = document.getElementById("box");
+			
+			box.onmouseover = function (){
+				box.style.animationPlayState = "paused";
+			}
+			
+			box.onmouseout = function (){
+				box.style.animationPlayState = "running";
+			}
+			
+		</script>
+		
+	</body>
+</html>

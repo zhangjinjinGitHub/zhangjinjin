@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>珂兰官网|钻石戒指_结婚戒指_黄金项链_情侣对戒_国内著名的钻石品牌</title>
+<link rel="Shortcut Icon" href="img/giftImg/favicon.ico" />
+
+<link rel="stylesheet" type="text/css" href="css/gift.css" />
+<script type="text/javascript" src="js/jquery-1.11.3.js"></script>
+
+<script type="text/javascript">
+
+</script>
+</head>
+<body>
+		<!----------header-----头部------>
+		<div id="indexHeader">
+			<div class="box layout">
+				<p class="pL">
+					<span class="span1">上海</span>&nbsp;
+					<a href="javascript:;" class="as">您附近的珂兰体验店</a>
+				</p>
+						
+				<p class="pR">
+					<a href="javascript:;"><b>请登录</b></a>|
+					<a href="javascript:;"><b>注册有礼</b></a>|
+					<a href="javascript:;">购物车(0)</a>|
+					<a href="javascript:;">今日金价</a>|
+					<a href="javascript:;">客服热线：400-898-0188</a>|
+					<a href="javascript:;">帮助中心</a>|
+					<a href="javascript:;">珠宝课堂</a>
+				</p>
+			</div>	
+		</div>
+		
+		
+		
+	<!-------search------搜索--------->
+		<div id="indexSearch" >
+			<div class="search_t layout">
+				<ul>
+					<li>
+						<a href="javascript:;">珂兰<br />KELA</a>
+					</li>
+					<li>
+						<a href="javascript:;">结婚<br />MARRY</a>
+						
+					</li>
+					<li>
+						<a href="javascript:;">礼物<br /> GIFT</a>
+						<img src="img/indexImg/yigou.gif" />
+					</li>
+				</ul>
+				
+				<p><a href="javascript:;"><img src="img/indexImg/logo-3.png"  /> </a></p>
+				
+				<div class="search">
+					<p class="p1">
+						<input type="text"  class="inp"/>
+						<a href="javascript:;"></a>
+					</p>
+					<p class="p2">
+						热门搜索: 
+						<a href="javascript:;">钻饰</a>
+						<a href="javascript:;">结婚钻戒</a>
+						<a href="javascript:;">时尚戒指</a>
+						<a href="javascript:;">对戒</a>
+					</p>
+				</div>	
+			</div>
+			
+			<div class="search_b">
+				<ul>
+					<li><a href="javascript:;">首页</a></li>
+					<li>
+						<a href="javascript:;">裸钻定制</a>
+						<img src="img/indexImg/hot_06.png" />
+					</li>
+					<li><a href="javascript:;">明星系列</a></li>
+					<li><a href="javascript:;">品牌馆</a></li>
+					<li><a href="javascript:;">星耀钻石</a></li>
+					<li><a href="javascript:;">天生一对</a></li>
+					<li><a href="javascript:;">预约到店</a></li>
+					<li>
+						<img src="img/indexImg/w-kela.png" />
+						<a href="javascript:;">
+							珂兰招商
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+<!--优惠弹窗-->
+<div class="giftCoupWrap">
+	<div class="giftCoupCent">
+		<ul class="giftCoupCentList">
+			<li>
+				<img src="img/giftImg/xuanf_02.png">
+				<a href=""></a>
+				
+			</li>
+			<li>
+				<img src="img/giftImg/xuanf_03.png">
+				<a href=""></a>
+			</li>
+			<li>
+				<img src="img/giftImg/xuanf_04.png">
+				<a href=""></a>
+			</li>
+			<li>
+				<img src="img/giftImg/xuanf_05.png">
+				<a href=""></a>
+			</li>
+			<li>
+				<img src="img/giftImg/xuanf_06.png">
+				<a href=""></a>
+			</li>
+			<li>
+				<img src="img/giftImg/xuanf_07.png">
+				<a href=""></a>
+			</li>
+		</ul>
+	</div>
+</div>
+<!--优惠弹窗-->
+
+
+
+
+<!--content-->
+<div class="giftFashion_home">
+	<!--banner-->
+	<div class="giftBanner"></div>
+	<!--banner-->
+	<!--今日推荐-->
+	<div class="giftFirst1Title">
+		<img src="img/giftImg/jrtj_05.jpg" class="giftImgbd">
+	</div>
+	<ul class="giftFirst1">
+		<li class="rbd">
+			<a href="" target="_blank">
+				<img src="img/giftImg/1111.jpg">
+				<span>
+					国庆预热购，福气满满，金玉吉祥<br><em>立即前往+</em>
+				</span>
+			</a>
+		</li>
+		<li class="rbd">
+			<a href="" target="_blank">
+				<img src="img/giftImg/161854_284651.jpg">
+				<span>
+					国庆预热购，迷人青瓷，复古时尚<br><em>立即前往+</em>
+				</span>
+			</a>
+		</li>
+		<li>
+			<a href="" target="_blank">
+				<img src="img/giftImg/1231.jpg">
+				<span>
+					国庆预热购，佳人摇曳，爱神之石<br><em>立即前往+</em>
+				</span>
+			</a>
+		</li>
+	</ul>
+	<div style="height:80px;"></div>
+	<!--今日推荐-->
+	
+	
+	
+	<!--首饰列表-->
+	<div class="giftFscontDiv">
+		<div class="giftFscontTop1">
+			<div class="giftFstMenu">
+				<ul>
+					<li class="beads">
+						<a href="javascript:;"></a>
+					</li>
+					<li class="gemstone">
+						<a href="javascript:;"></a>
+					</li>
+					<li class="silver">
+						<a href="javascript:;"></a>
+					</li>
+					<li class="emerald">
+						<a href="javascript:;"></a>
+					</li>
+					<li class="agate">
+						<a href="javascript:;"></a>
+					</li>
+					<li class="pearl">
+						<a href="javascript:;"></a>
+					</li>
+				</ul>
+			</div>
+			<div class="giftFscTab">
+				<!--木饰-->
+				<div class="giftFscontBox giftFscontTab1 beads" style="display:block">
+					<div class="giftBox1">
+						<div class="pr giftTb1_01 fl giftHoverChange">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst1__01.jpg" class="giftImgbd" style="bottom:0px;">
+								<img src="img/giftImg/fsh1__01.jpg" class="giftImgbd giftImgTp" style="top:-421px;">
+							</a>
+						</div>
+						<div class="pr giftTb1_02 fr giftHoverChange">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst1__02.jpg" class="giftImgbd" style="bottom:0px;">
+								<img src="img/giftImg/fsh1__02.jpg" class="giftImgbd giftImgTp" style="top:-421px;">
+							</a>
+						</div>
+					</div>
+					<div class="giftBox2">
+						<div class="pr giftTb1_03 fl giftOpacityChange">
+							<a href="" target="_blank">
+								<img src="img/giftImg/star1.jpg" class="giftImgbd">
+								<img src="img/giftImg/star2.jpg" class="giftImgbd" style="display:block;">
+							</a>
+						</div>
+						<div class="fr">
+							<div class="pr giftTb1_04 giftOpacityChange">
+								<a href="" target="_blank">
+									<img src="img/giftImg/fst1__04.jpg" class="giftImgbd">
+									<img src="img/giftImg/fsh1__04.jpg" class="giftImgbd">
+								</a>
+							</div>
+							<div class="pr giftTb1_05 giftHoverBig">
+								<a href="" target="_blank">
+									<img src="img/giftImg/fst1__05.jpg" class="giftImgbd">
+									<img src="img/giftImg/1.jpg" class="giftImgbd giftImgBig">
+								</a>
+							</div>
+						</div>
+						
+					</div>
+					<div class="giftBox3">
+						<div class="pr giftTb1_06 fl giftOpacityChange">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst1__06.jpg" class="giftImgbd">
+								<img src="img/giftImg/fsh1__06.jpg" class="giftImgbd">
+							</a>
+						</div>
+						<div class="pr giftTb1_02 fr">
+							<a href="" target="_blank">
+								<img src="img/giftImg/star3.jpg" class="giftImgbd">
+							</a>
+						</div>
+					</div>
+				</div>
+				<!--彩宝-->
+				<div class="giftFscontBox giftFscontTab2 beads hide">
+					<div class="giftBox1">
+						<div class="pr giftTb2_01 fl giftOpacityChange">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst2__01.jpg" class="giftImgbd">
+								<img src="img/giftImg/fsh2__01.jpg" class="giftImgbd giftImgTp">
+							</a>
+						</div>
+						<div class="pr giftTb2_02 fr giftOpacityChange">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst2__02.jpg" class="giftImgbd">
+								<img src="img/giftImg/fsh2__02.jpg" class="giftImgbd giftImgTp">
+							</a>
+						</div>
+					</div>
+					<div class="giftBox2">
+						<div class="pr giftTb2_03 fl">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst2__03.jpg" class="giftImgbd">
+							</a>
+						</div>
+						<div class="fr">
+							<div class="pr giftTb2_04 giftOpacityChange">
+								<a href="" target="_blank">
+									<img src="img/giftImg/fst2__04.jpg" class="giftImgbd">
+									<img src="img/giftImg/fsh2__04.jpg" class="giftImgbd">
+								</a>
+							</div>
+							
+						</div>
+						
+					</div>
+					<div class="giftBox3">
+						<div class="pr giftTb2_05 fl giftOpacityChange">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst2__05.jpg" class="giftImgbd">
+								<img src="img/giftImg/fsh2__05.jpg" class="giftImgbd">
+							</a>
+						</div>
+						<div class="pr giftTb2_06 fr giftOpacityChange">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst2__06.jpg" class="giftImgbd">
+								<img src="img/giftImg/fsh2__06.jpg" class="giftImgbd">
+							</a>
+						</div>
+					</div>
+				</div>
+				<!--银饰-->
+				<div class="giftFscontBox giftFscontTab3 beads hide">
+					<div class="giftBox1 fl">
+						<div class="pr giftTb3_01 giftOpacityChange">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst3__01.jpg" class="giftImgbd">
+								<img src="img/giftImg/fsh3__01.jpg" class="giftImgbd">
+							</a>
+						</div>
+						<div class="pr giftTb3_03 giftOpacityChange">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst3__03.jpg" class="giftImgbd">
+								<img src="img/giftImg/fsh3__03.jpg" class="giftImgbd">
+							</a>
+						</div>
+					</div>
+					<div class="giftBox2 fr">
+						<div class="pr giftTb3_02 giftOpacityChange">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst3__02.jpg" class="giftImgbd">
+								<img src="img/giftImg/fsh3__02.jpg" class="giftImgbd">
+							</a>
+						</div>
+						<div class="pr giftTb3_04 giftOpacityChange">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst3__04.jpg" class="giftImgbd">
+								<img src="img/giftImg/fsh3__04.jpg" class="giftImgbd">
+							</a>
+						</div>
+					</div>
+					<div class="giftBox3">
+						<div class="pr giftTb3_05 fl giftOpacityChange">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst3__05.jpg" class="giftImgbd">
+								<img src="img/giftImg/fsh3__05.jpg" class="giftImgbd">
+							</a>
+						</div>
+						<div class="pr giftTb3_06 fr giftOpacityChange">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst3__06.jpg" class="giftImgbd">
+								<img src="img/giftImg/fsh3__06.jpg" class="giftImgbd">
+							</a>
+						</div>
+					</div>
+				</div>
+				<!--翡翠玉石-->
+				<div class="giftFscontBox giftFscontTab4 beads hide">
+					<div class="giftBox1">
+						<div class="pr giftTb4_01 fl giftOpacityChange">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst4__01.jpg" class="giftImgbd">
+								<img src="img/giftImg/fsh4__01.jpg" class="giftImgbd">
+							</a>
+						</div>
+						<div class="pr giftTb4_02 fr giftOpacityChange">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst4__02.jpg" class="giftImgbd">
+								<img src="img/giftImg/fsh4__02.jpg" class="giftImgbd">
+							</a>
+						</div>
+					</div>
+					<div class="giftBox2">
+						<div class="pr giftTb4_03 fl giftOpacityChange">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst4__03.jpg" class="giftImgbd">
+								<img src="img/giftImg/fsh4__03.jpg" class="giftImgbd">
+							</a>
+						</div>
+						<div class="pr giftTb4_04 fr giftOpacityChange">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst4__04.jpg" class="giftImgbd">
+								<img src="img/giftImg/fsh4__04.jpg" class="giftImgbd">
+							</a>
+						</div>
+					</div>
+					<div class="giftBox3">
+						<div class="pr giftTb4_05 fl giftOpacityChange">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst4__05.jpg" class="giftImgbd">
+								<img src="img/giftImg/fsh4__05.jpg" class="giftImgbd">
+							</a>
+						</div>
+						<div class="pr giftTb4_06 fr giftOpacityChange">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst4__06.jpg" class="giftImgbd">
+								<img src="img/giftImg/fsh4__06.jpg" class="giftImgbd">
+							</a>
+						</div>
+					</div>
+				</div>
+				<!--水晶玛瑙-->
+				<div class="giftFscontBox giftFscontTab5 beads hide">
+					<div class="giftBox1">
+						<div class="pr giftTb5_01 fl">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst5__01.jpg" class="giftImgbd">
+							</a>
+						</div>
+						<div class="pr giftTb5_02 fr">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst5__02.jpg" class="giftImgbd">
+							</a>
+						</div>
+					</div>
+					<div class="giftBox2">
+						<div class="pr giftTb5_03 fl">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst5__03.jpg" class="giftImgbd">
+							</a>
+						</div>
+						<div class="pr giftTb5_04 fr">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst5__04.jpg" class="giftImgbd">
+							</a>
+						</div>
+					</div>
+					<div class="giftBox3">
+						<div class="pr giftTb5_05 fl">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst5__05.jpg" class="giftImgbd">
+							</a>
+						</div>
+						<div class="pr giftTb5_06 fr">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst5__06.jpg" class="giftImgbd">
+							</a>
+						</div>
+					</div>
+				</div>
+				<!--珍珠-->
+				<div class="giftFscontBox giftFscontTab6 beads hide">
+					<div class="giftBox1">
+						<div class="pr giftTb6_01 fl giftHoverChange">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst6__01.jpg" class="giftImgbd" style="bottom:0px;">
+								<img src="img/giftImg/fsh6__01.jpg" class="giftImgbd giftImgTp" style="top:-420px;">
+							</a>
+						</div>
+						<div class="pr giftTb6_02 fr giftHoverChange">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst6__02.jpg" class="giftImgbd" style="bottom:0px;">
+								<img src="img/giftImg/fsh6__02.jpg" class="giftImgbd giftImgTp" style="top:-421px;">
+							</a>
+						</div>
+					</div>
+					<div class="giftBox2">
+						<div class="fl">
+							<div class="pr giftTb6_03 giftOpacityChange">
+								<a href="" target="_blank">
+									<img src="img/giftImg/fst6__03.jpg" class="giftImgbd">
+									<img src="img/giftImg/fsh6__03.jpg" class="giftImgbd" style="display:block;">
+								</a>
+							</div>
+							<div class="pr giftTb6_05 giftHoverBig">
+								<a href="" target="_blank">
+									<img src="img/giftImg/fst6__05.jpg" class="giftImgbd">
+									<img src="img/giftImg/2.jpg" class="giftImgbd giftImgBig" style="bottom:0px; right:0px;">
+								</a>
+							</div>
+						</div>
+						<div class="pr giftTb6_04 fr giftOpacityChange">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst6__04.jpg" class="giftImgbd">
+								<img src="img/giftImg/fsh6__04.jpg" class="giftImgbd">
+							</a>
+						</div>
+					</div>
+					<div class="giftBox3">
+						<div class="pr giftTb6_06 fl">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst6__06.jpg" class="giftImgbd">
+							</a>
+						</div>
+						<div class="pr giftTb6_07 fr giftHoverBig">
+							<a href="" target="_blank">
+								<img src="img/giftImg/fst6__07.jpg" class="giftImgbd">
+								<img src="img/giftImg/3.jpg" class="giftImgbd giftImgBig" style="left:0px; bottom:0px;">
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+	
+<!--content-->
+
+
+
+
+	<!-----------footer-----尾部--------->
+		<div id="footer">
+			<div class="footer_t layout">
+				<div class="div1">
+					<ul>
+						<li>
+							<img src="img/indexImg/weixin1.jpg" /><br /><br />
+							<a href="javascript:;">珂兰官方微信</a>						
+						</li>
+						<li>
+							<img src="img/indexImg/weixin2.jpg" /><br /><br />
+							<a href="javascript:;">官方微信</a>
+						</li>
+					</ul>
+				</div>
+				
+				<div class="div2">
+					<ul>
+						<li>服务保障</li>
+						<li><a href="javascript:;">一钻双证</a></li>
+						<li><a href="javascript:;">质量承诺</a></li>
+						<li><a href="javascript:;">全程保价</a></li>
+					</ul>
+					
+					<ul>
+						<li>售后服务</li>
+						<li><a href="javascript:;">以旧换新</a></li>
+						<li><a href="javascript:;">售后服务</a></li>
+						<li><a href="javascript:;">退换办理</a></li>
+					</ul>
+					
+					<ul>
+						<li>关于我们</li>
+						<li><a href="javascript:;">公司简介</a></li>
+						<li><a href="javascript:;">权威认证</a></li>
+						<li><a href="javascript:;">联系我们</a></li>
+					</ul>
+					
+					<ul>
+						<li>新手指南</li>
+						<li><a href="javascript:;">注册登录</a></li>
+						<li><a href="javascript:;">网站地图</a></li>
+						<li><a href="javascript:;">如何预约</a></li>
+					</ul>
+					
+					<ul>
+						<li>预约购买</li>
+						<li><a href="javascript:;">体验店自提</a></li>
+						<li><a href="javascript:;">订单查询</a></li>
+						<li><a href="javascript:;">支付方式</a></li>
+					</ul>
+					
+					<ul>
+						<li>珂兰</li>
+						<li><a href="javascript:;">珠宝课堂</a></li>
+						<li><a href="javascript:;">帮助中心</a></li>
+						<li><a href="javascript:;">新闻资讯</a></li>
+					</ul>					
+				</div>
+			
+				<div class="div3">
+					<p>电话预约</p>
+					<p>400-898-0188</p>
+					<p>咨询时间： 9: 00-23: 00</p>
+					<p><a href="javascript:;"><img src="img/indexImg/zixun.png" /></a></p>
+				</div>
+				
+			</div>
+			
+			<div class="footer_b layout"> 
+				<div class="links">
+					<p class="p1">
+						<a href="javascript:;">防伪认证</a>
+						<a href="javascript:;">切换城市</a>
+						<a href="javascript:;">友情链接 :</a>
+					</p>
+										
+					<div class="lianjie">
+						<a href="javascript:;">影楼</a>
+						<a href="javascript:;">钻戒</a>
+						<a href="javascript:;">服装品牌</a>
+						<a href="javascript:;">时尚品牌</a>
+						<a href="javascript:;">我爱钻石网</a>
+						<a href="javascript:;">隐形眼睛</a>
+						<a href="javascript:;">三亚婚纱摄影</a>
+						<a href="javascript:;">佐卡伊钻戒</a>
+						<a href="javascript:;">村安商城</a>
+						<a href="javascript:;">服装搭配</a>
+						<a href="javascript:;">化妆品牌大全</a>
+						<a href="javascript:;">皇朝翠玉翡翠</a>
+						<a href="javascript:;">艺术网</a>
+					</div>
+					<p class="p2">Copyright© 2007-2016 kela.cn 上海珂兰商贸有限公司 版权所有 并保留所有权利
+						<a href="javascript:;"> 沪ICP备12001099号-4 京公网安备110102003015号</a>
+					</p>
+				
+				</div>
+			</div>
+		
+		</div>
+		
+<script type="text/javascript" src="js/gift.js"></script>
+</div>
+</body>
+</html>
+
+

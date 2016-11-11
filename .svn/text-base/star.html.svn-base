@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" href="css/star.css" />
+		<link rel="stylesheet" href="css/animate.css" />
+		<script type="text/javascript" src="js/wow.js"></script>
+	</head>
+	<body>
+		<div class="head"><img src="img/header.png" /></div>
+		<div class="mu" id="box">
+			<audio src="费玉清 - 一剪梅.mp3" id="music"></audio>
+			<img src="img/music.png" />
+		</div>
+		
+		<div class="p">
+			<div class="p1">
+				<div class="p11">
+					<span class="wow zoomInLeft" >天</span>
+					<span class="wow zoomInLeft" data-wow-delay="1s">生</span>
+					<span class="wow zoomInLeft" data-wow-delay="2s">一</span>
+					<span class="wow zoomInLeft" data-wow-delay="3s">对</span>
+				</div>
+				<div class="wow bounceInRight p12 " data-wow-duration="2s" data-wow-delay="6s">
+					因为对真爱的尊崇，我们致力于将世界上最闪耀的钻石， 
+					献给每一位恋爱中的女人 。就算看过一整个银河，我也只爱你这颗星， 星耀钻石因爱而生。
+				</div>
+			</div>
+			
+			<div class="wow rotateInDownRight" data-wow-delay="4s" data-wow-duration="2s">
+				<img src="img/1.jpg" /></div>
+		</div>
+		
+		<div class="wow lightSpeedIn p" data-wow-delay="9s"><img src="img/2.jpg" /></div>
+		
+		<div class="wow hinge p" data-wow-duration="3s" data-wow-delay="3s">
+			<img src="img/3.jpg" />
+		</div>
+		
+		<div class="wow flipInY p" data-wow-duration="3s" data-wow-delay="5s">
+			<img src="img/4.jpg" />
+		</div>
+		
+		<div class="wow zoomInUp p" data-wow-duration="1s" data-wow-delay="6s">
+			<img src="img/5.jpg" />
+		</div>
+		
+		<div class="wow slideOutDown p" data-wow-duration="2s" data-wow-delay="4s">
+			<img src="img/6.jpg" />
+		</div>
+		
+		<div class="wow lightSpeedOut p" data-wow-delay="5s">
+			<img src="img/7.jpg" />
+		</div>
+		
+		<div class="wow rotateOutDownLeft p" data-wow-duration="2s" data-wow-delay="5s">
+				<img src="img/8.jpg" />
+		</div>
+		
+		
+		<div class="footer">
+			<div class="fl"><img src="img/star.png" /></div>
+			<div class="fc">
+				<img src="img/star1.png" />
+				<input type="text" id="username" class="inp1" placeholder="您的姓名"  />
+				<input type="text" id="phone" class="inp2" placeholder="手机号码"/>
+				<input type="date" id="date" class="inp3" value="选择到店时间" />
+				<input type="button" id="go" class="yuyue" value="立即预约" />
+			</div>
+			<div class="fr"><img src="img/star2.png" /></div>
+		</div>
+		
+		
+		<div class="foot"><img src="img/foot.png" /></div>
+		
+		<div class="piaofu">
+			<div class="pf1">
+				
+			</div>
+			<div class="pf2"></div>
+		</div>
+		
+		
+		<script>
+			new WOW().init();
+		</script>
+		
+		<script type="text/javascript" src="js/jquery-1.11.3.js"></script>
+		<script type="text/javascript" src="js/star.js"></script>
+		<script type="text/javascript" src="js/yuyue.js"></script>
+	</body>
+</html>

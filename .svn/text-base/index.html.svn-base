@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>珂兰官网|钻石戒指_结婚戒指_黄金项链_情侣对戒_国内著名的钻石品牌</title>
+		<script type="text/javascript" src="js/jquery-1.11.3.js" ></script>
+		<link rel="stylesheet" href="css/index.css" />
+	</head>
+	
+	<body>
+	<!----------adlet--小广告---------->
+		<div id="indexAdlet">
+			<a href="javascript:;"><img src="img/indexImg/picture.jpg"/></a>
+			<div class="indexAdlet_btn">
+				<a href="javascript:;"><img src="img/indexImg/indexAdlet_btn.png" /></a>
+			</div>
+		</div>
+	
+	<!----------header-----头部------>
+		<div id="indexHeader">
+			<div class="box layout">
+				<p class="pL">
+					<span class="span1">上海</span>&nbsp;
+					<a href="javascript:;" class="as">您附近的珂兰体验店</a>
+				</p>
+						
+				<p class="pR">
+					<a href="javascript:;"><b>请登录</b></a>|
+					<a href="javascript:;"><b>注册有礼</b></a>|
+					<a href="javascript:;">购物车(0)</a>|
+					<a href="javascript:;">今日金价</a>|
+					<a href="javascript:;">客服热线：400-898-0188</a>|
+					<a href="javascript:;">帮助中心</a>|
+					<a href="javascript:;">珠宝课堂</a>
+				</p>
+			</div>	
+		</div>
+		
+		
+		
+	<!-------search------搜索--------->
+		<div id="indexSearch" >
+			<div class="search_t layout">
+				<ul>
+					<li>
+						<a href="javascript:;">珂兰<br />KELA</a>
+					</li>
+					<li>
+						<a href="javascript:;">结婚<br />MARRY</a>
+						
+					</li>
+					<li>
+						<a href="javascript:;">礼物<br /> GIFT</a>
+						<img src="img/indexImg/yigou.gif" />
+					</li>
+				</ul>
+				
+				<p><a href="javascript:;"><img src="img/indexImg/logo-3.png"  /> </a></p>
+				
+				<div class="search">
+					<p class="p1">
+						<input type="text"  class="inp"/>
+						<a href="javascript:;"></a>
+					</p>
+					<p class="p2">
+						热门搜索: 
+						<a href="javascript:;">钻饰</a>
+						<a href="javascript:;">结婚钻戒</a>
+						<a href="javascript:;">时尚戒指</a>
+						<a href="javascript:;">对戒</a>
+					</p>
+				</div>	
+			</div>
+			
+			<div class="search_b">
+				<ul>
+					<li><a href="javascript:;">首页</a></li>
+					<li>
+						<a href="javascript:;">裸钻定制</a>
+						<img src="img/indexImg/hot_06.png" />
+					</li>
+					<li><a href="javascript:;">明星系列</a></li>
+					<li><a href="javascript:;">品牌馆</a></li>
+					<li><a href="javascript:;">星耀钻石</a></li>
+					<li><a href="javascript:;">天生一对</a></li>
+					<li><a href="javascript:;">预约到店</a></li>
+					<li>
+						<img src="img/indexImg/w-kela.png" />
+						<a href="javascript:;">
+							珂兰招商
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+				
+
+	<!--------------banner----轮播图---------->
+		<div id="indexBanner" >
+			<ul class="slider">
+				<li><img src="img/indexImg/index-banner1.jpg"  /></li>
+				<li><img src="img/indexImg/index-banner2.jpg"  /></li>	
+				<li><img src="img/indexImg/index-banner3.jpg"  /></li>	
+				<li><img src="img/indexImg/index-banner4.jpg"  /></li>	
+				<li><img src="img/indexImg/index-banner5.jpg"  /></li>	
+				<li><img src="img/indexImg/index-banner6.jpg"  /></li>	
+				<li><img src="img/indexImg/index-banner7.jpg"  /></li>	
+			</ul>
+			<ul class="num">
+				<li class="on"></li>
+				<li></li>
+				<li></li>
+				<li></li>
+				<li></li>
+				<li></li>
+				<li></li>
+			</ul>
+		</div>
+		
+	<!-------------cotent-----内容-------------->	
+		<div id="indexContent" >
+			<ul class="conL">
+				<li>
+					<a href="javascript:;">
+						<img src="img/indexImg/index-content1.jpg" />
+						<span>鉴赏 +</span>
+					</a>
+				</li>
+			</ul>
+			
+			<ul class="conR">
+				<li class="lis1">
+					<a href="javascript:;">
+						<img src="img/indexImg/index-content2.jpg" />
+						<span>鉴赏 +</span>
+					</a>
+				</li>
+				<li class="lis2">
+					<a href="javascript:;">
+						<img src="img/indexImg/index-content3.jpg" />
+						<span>鉴赏 +</span>
+					</a>
+				</li>
+			</ul>
+		</div>
+		
+		<div class="indexBox" class="layout">
+			<p><a href="javascript:;">最新资讯</a></p>
+		</div>	
+	
+		
+		
+	<!---------------indexCarousel------------------>
+		<div id="indexCarousel" class="layout">
+			<span class="btn_left">
+				<a href="javascript:;"><img src="img/indexImg/indexCarouselBtn_left.png" /></a>
+			</span>
+			<div class="carousel">
+				<ul class="uls">
+					<li>
+						<a href="javascript:;"><img src="img/indexImg/indexCarousel5.jpg" /></a>
+						<p>
+							“星女郎”林允，美人鱼的闪耀秘诀<br />
+							<a href="javascript:;">立即前往 +</a>
+						</p>
+					</li>
+					<li>
+						<a href="javascript:;"><img src="img/indexImg/indexCarousel1.jpg" /></a>
+						<p>
+							珂兰荣获"2015年中国连锁加盟十大最具人气品牌"<br />
+							<a href="javascript:;">立即前往 +</a>
+						</p>
+	
+					</li>
+					<li>
+						<a href="javascript:;"><img src="img/indexImg/indexCarousel2.jpg" /></a>
+						<p>
+							珂兰荣膺JNA亚洲“最佳电商平台”奖<br />
+							<a href="javascript:;">立即前往 +</a>
+						</p>
+					</li>
+					<!--<li>
+						<a href="javascript:;"><img src="img/indexImg/indexCarousel3.jpg" /></a>
+						<p>
+							珂兰助力国安，见证主场风采<br />
+							<a href="javascript:;">立即前往 +</a>
+						</p>
+					</li>
+					<li>
+						<a href="javascript:;"><img src="img/indexImg/indexCarousel4.jpg" /></a>
+						<p>
+							珂兰力撑马伊琍情牵朱亚文闯荡围城<br />
+							<a href="javascript:;">立即前往 +</a>
+						</p>
+					</li>
+	
+					<li>
+						<a href="javascript:;"><img src="img/indexImg/indexCarousel6.jpg" /></a>
+						<p>
+							“天生一对”成明星时尚新宠<br />
+							<a href="javascript:;">立即前往 +</a>
+						</p>
+					</li>
+					<li>
+						<a href="javascript:;"><img src="img/indexImg/indexCarousel7.jpg" /></a>
+						<p>
+							《瑞丽时尚先锋》杂志特别推荐——刘诗诗同款<br />
+							<a href="javascript:;">立即前往 +</a>
+						</p>
+					</li>-->
+					
+				</ul>
+			</div>
+			
+			<span class="btn_right">
+				<a href="javascript:;"><img src="img/indexImg/indexCarouselBtn_right.png" /></a>
+			</span>
+			
+		</div>
+	
+	
+	
+	<!-----------footer-----尾部--------->
+		<div id="footer">
+			<div class="footer_t layout">
+				<div class="div1">
+					<ul>
+						<li>
+							<img src="img/indexImg/weixin1.jpg" /><br /><br />
+							<a href="javascript:;">珂兰官方微信</a>						
+						</li>
+						<li>
+							<img src="img/indexImg/weixin2.jpg" /><br /><br />
+							<a href="javascript:;">官方微信</a>
+						</li>
+					</ul>
+				</div>
+				
+				<div class="div2">
+					<ul>
+						<li>服务保障</li>
+						<li><a href="javascript:;">一钻双证</a></li>
+						<li><a href="javascript:;">质量承诺</a></li>
+						<li><a href="javascript:;">全程保价</a></li>
+					</ul>
+					
+					<ul>
+						<li>售后服务</li>
+						<li><a href="javascript:;">以旧换新</a></li>
+						<li><a href="javascript:;">售后服务</a></li>
+						<li><a href="javascript:;">退换办理</a></li>
+					</ul>
+					
+					<ul>
+						<li>关于我们</li>
+						<li><a href="javascript:;">公司简介</a></li>
+						<li><a href="javascript:;">权威认证</a></li>
+						<li><a href="javascript:;">联系我们</a></li>
+					</ul>
+					
+					<ul>
+						<li>新手指南</li>
+						<li><a href="javascript:;">注册登录</a></li>
+						<li><a href="javascript:;">网站地图</a></li>
+						<li><a href="javascript:;">如何预约</a></li>
+					</ul>
+					
+					<ul>
+						<li>预约购买</li>
+						<li><a href="javascript:;">体验店自提</a></li>
+						<li><a href="javascript:;">订单查询</a></li>
+						<li><a href="javascript:;">支付方式</a></li>
+					</ul>
+					
+					<ul>
+						<li>珂兰</li>
+						<li><a href="javascript:;">珠宝课堂</a></li>
+						<li><a href="javascript:;">帮助中心</a></li>
+						<li><a href="javascript:;">新闻资讯</a></li>
+					</ul>					
+				</div>
+			
+				<div class="div3">
+					<p>电话预约</p>
+					<p>400-898-0188</p>
+					<p>咨询时间： 9: 00-23: 00</p>
+					<p><a href="javascript:;"><img src="img/indexImg/zixun.png" /></a></p>
+				</div>
+				
+			</div>
+			
+			<div class="footer_b layout"> 
+				<div class="links">
+					<p class="p1">
+						<a href="javascript:;">防伪认证</a>
+						<a href="javascript:;">切换城市</a>
+						<a href="javascript:;">友情链接 :</a>
+					</p>
+										
+					<div class="lianjie">
+						<a href="javascript:;">影楼</a>
+						<a href="javascript:;">钻戒</a>
+						<a href="javascript:;">服装品牌</a>
+						<a href="javascript:;">时尚品牌</a>
+						<a href="javascript:;">我爱钻石网</a>
+						<a href="javascript:;">隐形眼睛</a>
+						<a href="javascript:;">三亚婚纱摄影</a>
+						<a href="javascript:;">佐卡伊钻戒</a>
+						<a href="javascript:;">村安商城</a>
+						<a href="javascript:;">服装搭配</a>
+						<a href="javascript:;">化妆品牌大全</a>
+						<a href="javascript:;">皇朝翠玉翡翠</a>
+						<a href="javascript:;">艺术网</a>
+					</div>
+					<p class="p2">Copyright© 2007-2016 kela.cn 上海珂兰商贸有限公司 版权所有 并保留所有权利
+						<a href="javascript:;"> 沪ICP备12001099号-4 京公网安备110102003015号</a>
+					</p>
+				
+				</div>
+			</div>
+		
+		</div>
+		
+	
+	
+	<!----------遮罩层--------------->
+		<div id="cs31" class="animated  fadeIn">
+			<a href="javascript:;"><img src="img/indexImg/hoveri_07.png"  /></a>
+		</div>
+		
+		<div id="cs32">
+			<div class="layout">
+				<img src="img/indexImg/hoveri_21.png" class="imgs1" />
+				<ul> 
+					<li>
+						预算&nbsp;&nbsp;&nbsp;
+						<select>
+							<option>不限</option>
+							<option>3000-5000元</option>
+							<option>5000-8000元</option>
+							<option>8000-12000元</option>
+							<option>12000-20000元</option>
+							<option>20000元以上</option>
+						</select>
+					</li>				
+					<li>
+						姓名&nbsp;&nbsp;&nbsp;
+						<input type="text"  />
+					</li>				
+					<li>
+						电话&nbsp;&nbsp;&nbsp;
+						<input type="text"  />
+					</li>	
+				</ul>
+				
+				<p>
+					<a href="javascript:;"><img src="img/indexImg/hoveri_23.png" id="close" /></a>
+				</p>
+			</div>
+			
+		</div>
+	
+		<script type="text/javascript" src="js/index.js" ></script>
+		<link rel="stylesheet" href="css/animate.css" />
+		<script src="js/wow.js"></script>
+	</body>
+</html>
